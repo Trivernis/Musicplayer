@@ -1,0 +1,3 @@
+# Musicplayer
+Its a Musicplayer, which uses Windows Media player. You can import a playlist or any songs. The Musicplayer outputs the songinformation in a textdocument and a html-document. It also saves the album-art in the local folder, this is also displayed in the html-document. The background of the html-document is oriantated on the album art and also safed in an extra jpg file. You can upload the document to a connected ftp-server. And at last, the player also works like a normal Musicplayer.
+For ftp, just put your connection data in the voids uploadToServer, uploadImageToServer and deleteFromServer. 
